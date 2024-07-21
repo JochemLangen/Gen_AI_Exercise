@@ -30,7 +30,6 @@ After the inspector approved your fruit today, you are not sure if you will have
 (BONUS)
 The fruit inspector is ambitious and wants to check how random the fruit baskets really are. Create a **single** prompt that adds a function to the fruit_inspector class. Given input on the population probability of each type of basket and each type of fruit within those baskets, the function should output what the probability is that the total number of each basket and each fruit type in the fruit basket file adheres to these probability distributions. For the fruit types, this should take into account how many baskets of the appropriate type there are in the file. In other words, if the baskets in the file are deemed likely not to be following the distribution, the fruit types still can be and vice-versa. Save your prompt in a text file or pdf and the new version of ./code/fruit_inspector.py.
 
-
 Your results will be evaluated on the following:
 - Demonstrated understanding of the exercise
 - Effort put in
@@ -39,5 +38,6 @@ Your results will be evaluated on the following:
 - Clarity and thoroughness of the python scripts and their documentation
 - Clarity of any additional documentation you provide about any assumptions you made
 
+Note, the prompt for each exercise should be fully independent and not require the context of the previous prompts.
 
 Please send your results to [jochem.langen@asml.com](mailto:jochem.langen@asml.com), [jonathan.deweirdt@asml.com](mailto:jonathan.deweirdt@asml.com) & [georg.wilding@asml.com](mailto:georg.wilding@asml.com). Please put the results of each exercise in a separate folder and attach all of them together in a zipped folder.
