@@ -1,0 +1,4 @@
+@Basket_type = "B";
+"Apple", "Orange", "Apple", "Orange", "Apple", "Orange", "Apple", "Orange", "Apple", "Orange",
+@Basket_type = "A";
+"Strawberry", "Blueberry", "Raspberry", "Gooseberry", "Raspberry", "Strawberry", "Blueberry", "Gooseberry", "Strawberry", "Blueberry",
