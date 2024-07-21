@@ -1,6 +1,6 @@
 # Generative AI Recruitment Assignment
 
-Congratulations on getting through the first interview!
+Congratulations on getting through the first interview round!
 
 There are two steps remaining, this assignment and then a second interview. During that interview, we will discuss your assignment submission and any outstanding interview or practical questions. 
 
