@@ -2,9 +2,10 @@
 
 Congratulations on getting through the first interview round!
 
-There are two steps remaining, this assignment and then a second interview. During that interview, we will discuss your assignment submission and any outstanding interview or practical questions. 
+There are two steps remaining, this assignment and if needed a second interview. During that interview, we will discuss your assignment submission and any outstanding interview or practical questions. 
 
-We are looking for someone with a technical / science background, with knowledge of artificial intelligence (preferably incl. Natural Language Processing) and experience with prompt engineering. The main goal of the internship is the following:
+We are looking for someone with a technical / science background, good collaboration and communication skills, knowledge of artificial intelligence (preferably incl. Natural Language Processing) and experience with prompt engineering. The main goal of the internship is the following:
+- Learn about ASML and immerse yourself in the work being done within Metrology
 - Gather and come up with use-cases for our in-house or subscribed Gen. AI tools, given the development processes within our department
 - Test how we can implement these tools best for each process / use-case
 - Develop a usage guide and template (and potentially look into efficiency gains)
@@ -19,6 +20,9 @@ The processes that we would apply these tools to include but are not limited to:
 - Requirements engineering
 - Communication
 - Documentation and presentations
+
+You will be mentored by a Functional Design Engineer from the Metrology department (Jochem Langen) who will teach you about ASML, the metrology technical context and details of our work as well as guiding you through the project.    
+Furthermore, you will have contact with a lot of other engineers within our cluster, all with potentially different use-cases. As part of your introduction to our AI tools and to provide additional support with testing if needed, you will also interact with our AI innovation lab. This team of AI engineers have worked on developing the Gen. AI tools or are involved in the intake process of external ones. They will also be looking for feedback on how their products can be improved.
 
 ## Asignment: The Grumpy Fruit Inspector
 For this assignment you will be using the base ChatGPT-4 model (https://chatgpt.com/) to generate a random selection of fruit baskets with randomly ordered fruit, from apples and oranges to blueberries and strawberries! You need to write a **single** prompt that generates the content of a fruit baskets file as output (not just a python script). An example of a shorter version of the file you will be creating is stored in ./data/fruit_baskets_example. Whether your baskets are valid will be tested by the fruit inspector. First run this file: ./code/fruit_inspector.py and then you can test your files by initialising the fruit inspector class or by using its functions. Save your prompt and the resulting plot in a word or pdf file.
@@ -41,3 +45,7 @@ Your results will be evaluated on the following:
 Note, the prompt for each exercise should be fully independent and not require the context of the previous prompts.
 
 Please send your results to [jochem.langen@asml.com](mailto:jochem.langen@asml.com), [jonathan.deweirdt@asml.com](mailto:jonathan.deweirdt@asml.com) & [georg.wilding@asml.com](mailto:georg.wilding@asml.com). Please put the results of each exercise in a separate folder and attach all of them together in a zipped folder.
+
+## Deadline
+The assignment should be should be handed in by 23:59 pm on Wednesday the 7th of August. If an additional interview will be needed we would be looking to have those the week after (12th - 18th of August).
+If for some reason you will not be able to complete the assignment before the deadline, please let me know via: [jochem.langen@gmail.com](mailto:jochem.langen@gmail.com) (note this is a different email than used above).
